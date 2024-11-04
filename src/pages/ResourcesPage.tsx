@@ -6,25 +6,25 @@ export default function ResourcesPage() {
     {
       title: 'Free Guides',
       icon: BookOpen,
-      description: 'Access our comprehensive collection of affiliate marketing guides',
+      description: 'Access our FREE guides to learn how to promote each offer, whether through organic content or paid ads.',
       buttonText: 'View Guides',
-      url: 'https://discord.gg/your-server',
+      url: 'https://discord.gg/cUHukGh7uQ',
       preview: 'https://images.unsplash.com/photo-1522542550221-31fd19575a2d?w=500',
     },
     {
-      title: 'Mentorship',
+      title: 'Free Mentorship',
       icon: Users,
-      description: 'Get personalized guidance from experienced affiliate marketers',
+      description: 'Learn from people who have successfully made over 6 figures from affiliate marketing, for FREE.',
       buttonText: 'Join Mentorship',
-      url: 'https://discord.gg/your-server',
+      url: 'https://discord.gg/cUHukGh7uQ',
       preview: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?w=500',
     },
     {
-      title: 'Rewards',
+      title: 'Milestones',
       icon: Gift,
       description: 'Earn exclusive rewards and bonuses for your performance',
-      buttonText: 'View Rewards',
-      url: 'https://discord.gg/your-server',
+      buttonText: 'View Milestones',
+      url: 'https://discord.gg/cUHukGh7uQ',
       preview: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?w=500',
     },
   ];
@@ -36,13 +36,13 @@ export default function ResourcesPage() {
       {/* Community Box */}
       <div className="bg-gradient-to-r from-blue-500 to-blue-600 rounded-xl p-8 text-white">
         <div className="max-w-3xl mx-auto text-center space-y-6">
-          <h2 className="text-2xl font-bold">Join Our Affiliate Community</h2>
+          <h2 className="text-2xl font-bold">Join The Counted Community</h2>
           <p className="text-blue-100">
             Connect with fellow affiliates, access exclusive resources, and earn rewards
-            in our thriving Discord community.
+            in our Discord community.
           </p>
           <a
-            href="https://discord.gg/your-server"
+            href="https://discord.gg/cUHukGh7uQ"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-white text-blue-600 rounded-lg hover:bg-blue-50 transition-colors duration-200"
